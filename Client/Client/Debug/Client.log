@@ -1,0 +1,7 @@
+﻿  Client.cpp
+c:\c++code\chat\client\client\client.cpp(128): warning C4101: ConnectionNumber: неиспользованная локальная переменная
+c:\c++code\chat\client\client\client.cpp(130): warning C4101: EnterClientPublicKey: неиспользованная локальная переменная
+c:\c++code\chat\client\client\client.cpp(263): warning C4101: keyPublic: неиспользованная локальная переменная
+c:\c++code\chat\client\client\client.cpp(311): warning C4101: keyyy: неиспользованная локальная переменная
+c:\c++code\chat\client\client\client.cpp(310): warning C4101: keyy: неиспользованная локальная переменная
+  Client.vcxproj -> C:\C++Code\Chat\Client\Debug\Client.exe

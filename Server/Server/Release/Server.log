@@ -1,0 +1,5 @@
+﻿  ServerS.cpp
+ServerS.cpp(167): warning C4101: ConnectionNumber: неиспользованная локальная переменная
+ServerS.cpp(169): warning C4101: EnterClientPublicKey: неиспользованная локальная переменная
+ServerS.cpp(379): error C2664: "char *LicensedKeyGeneration(char *)": невозможно преобразовать аргумент 1 из "std::string" в "char *"
+  ServerS.cpp(379): note: Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен

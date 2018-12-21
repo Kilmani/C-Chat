@@ -1,0 +1,19 @@
+﻿  ServerS.cpp
+ServerS.cpp(44): warning C4101: ID: неиспользованная локальная переменная
+ServerS.cpp(534): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+ServerS.cpp(540): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+ServerS.cpp(397): warning C4101: ConnectionNumber: неиспользованная локальная переменная
+ServerS.cpp(399): warning C4101: EnterClientPublicKey: неиспользованная локальная переменная
+ServerS.cpp(586): warning C4101: keyPublic: неиспользованная локальная переменная
+ServerS.cpp(630): warning C4101: Keyy: неиспользованная локальная переменная
+ServerS.cpp(643): warning C4101: keyyy: неиспользованная локальная переменная
+ServerS.cpp(642): warning C4101: keyy: неиспользованная локальная переменная
+ServerS.cpp(720): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+ServerS.cpp(742): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+ServerS.cpp(888): warning C4267: аргумент: преобразование из "size_t" в "MD5::size_type"; возможна потеря данных
+  Создание кода
+  3 of 169 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Server.vcxproj -> C:\C++Code\Chat\Server\x64\Release\Server.exe

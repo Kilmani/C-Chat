@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<Protection
+		InputFileName=".\Server.exe"
+		Options="73672"
+		CheckKernelDebugger="true"
+		>
+		<Messages
+		/>
+		<Folders
+		/>
+		<Procedures>
+			<Procedure
+				MapAddress="EntryPoint"
+				CompilationType="2"
+			/>
+		</Procedures>
+	</Protection>
+	<Script
+	/>
+</Document>

@@ -1,0 +1,23 @@
+﻿  ServerMod.cpp
+c:\c++code\chat\servermod\servermod\servermod.cpp(40): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPCWSTR"
+  c:\c++code\chat\servermod\servermod\servermod.cpp(40): note: рекомендуется использовать "%ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(40): note: рекомендуется использовать "%lls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(40): note: рекомендуется использовать "%Ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(40): note: рекомендуется использовать "%ws" в строке форматирования
+c:\c++code\chat\servermod\servermod\servermod.cpp(102): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPCWSTR"
+  c:\c++code\chat\servermod\servermod\servermod.cpp(102): note: рекомендуется использовать "%ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(102): note: рекомендуется использовать "%lls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(102): note: рекомендуется использовать "%Ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(102): note: рекомендуется использовать "%ws" в строке форматирования
+c:\c++code\chat\servermod\servermod\servermod.cpp(180): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPCWSTR"
+  c:\c++code\chat\servermod\servermod\servermod.cpp(180): note: рекомендуется использовать "%ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(180): note: рекомендуется использовать "%lls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(180): note: рекомендуется использовать "%Ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(180): note: рекомендуется использовать "%ws" в строке форматирования
+c:\c++code\chat\servermod\servermod\servermod.cpp(242): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "LPCWSTR"
+  c:\c++code\chat\servermod\servermod\servermod.cpp(242): note: рекомендуется использовать "%ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(242): note: рекомендуется использовать "%lls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(242): note: рекомендуется использовать "%Ls" в строке форматирования
+  c:\c++code\chat\servermod\servermod\servermod.cpp(242): note: рекомендуется использовать "%ws" в строке форматирования
+c:\c++code\chat\servermod\servermod\servermod.cpp(151): warning C4715: ServerMod: значение возвращается не при всех путях выполнения
+  ServerMod.vcxproj -> C:\C++Code\Chat\ServerMod\Debug\ServerMod.dll
